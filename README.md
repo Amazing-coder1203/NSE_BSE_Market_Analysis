@@ -1,4 +1,4 @@
-# NSE/BSE Market Analysis Dashboard
+# NSE Market Analysis Dashboard
 
 End-to-end quantitative finance project analysing 3 years of Indian equity market data across **180 NSE stocks** and **10 NIFTY sectors**. Built a Sharpe-optimised portfolio using Modern Portfolio Theory that generated **120.9% cumulative return vs NIFTY 50's 27.7%** - an alpha of **+93.2%**.
 
