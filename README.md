@@ -4,6 +4,12 @@ End-to-end quantitative finance project analysing 3 years of Indian equity marke
 
 Check out the web version of dashboard here: https://nsemarketanalysis.pages.dev/
 
+<img width="2075" height="1200" alt="NSE_Market_Analysis_page-0001" src="https://github.com/user-attachments/assets/f7b1ce27-c380-496b-bb8d-f21c99ce4983" />
+<img width="2075" height="1200" alt="NSE_Market_Analysis_page-0002" src="https://github.com/user-attachments/assets/b6749101-6459-4cd3-bb88-b4b6847521a3" />
+<img width="2075" height="1200" alt="NSE_Market_Analysis_page-0003" src="https://github.com/user-attachments/assets/3063a1a6-6e31-4da4-beb1-73ed7faf4fe7" />
+<img width="2075" height="1200" alt="NSE_Market_Analysis_page-0004" src="https://github.com/user-attachments/assets/68cef5cd-dccc-4d95-9a37-b092fe9d8c4b" />
+
+
 ---
 
 ## Tech Stack
