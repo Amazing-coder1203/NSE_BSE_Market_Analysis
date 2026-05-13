@@ -4,10 +4,11 @@ End-to-end quantitative finance project analysing 3 years of Indian equity marke
 
 Check out the web version of dashboard here: https://nsemarketanalysis.pages.dev/
 
-<img width="954" height="530" alt="image" src="https://github.com/user-attachments/assets/be40bb62-6ba3-4790-8ea8-0d409d644615" />
-<img width="2075" height="1200" alt="NSE_Market_Analysis_page-0002" src="https://github.com/user-attachments/assets/b6749101-6459-4cd3-bb88-b4b6847521a3" />
-<img width="2075" height="1200" alt="NSE_Market_Analysis_page-0003" src="https://github.com/user-attachments/assets/3063a1a6-6e31-4da4-beb1-73ed7faf4fe7" />
-<img width="2075" height="1200" alt="NSE_Market_Analysis_page-0004" src="https://github.com/user-attachments/assets/68cef5cd-dccc-4d95-9a37-b092fe9d8c4b" />
+<img width="4150" height="2400" alt="NSE_Market_Analysis_page-0001" src="https://github.com/user-attachments/assets/d3f3ab74-7bc7-4f62-91ad-b2fe4dce6d8f" />
+<img width="4150" height="2400" alt="NSE_Market_Analysis_page-0002" src="https://github.com/user-attachments/assets/51b681b3-ea56-435e-a423-c56687daa555" />
+<img width="4150" height="2400" alt="NSE_Market_Analysis_page-0003" src="https://github.com/user-attachments/assets/ea56fdf3-36ad-43c5-9036-36c21970efdd" />
+<img width="4150" height="2400" alt="NSE_Market_Analysis_page-0004" src="https://github.com/user-attachments/assets/f22d1871-7f32-43af-8332-89fe2af25ded" />
+
 
 
 ---
